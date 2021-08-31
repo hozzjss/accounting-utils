@@ -1,0 +1,10 @@
+{
+  "name": "accounting-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hz <medo3578@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sourcecred": "0.9.1"
+  }
+}
